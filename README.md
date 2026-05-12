@@ -126,59 +126,6 @@ pip install -r requirements.txt
 
 ---
 
-# ⚙️ Installation Guide
-
-## Step 1 — Clone Repository
-
-```bash
-git clone https://github.com/ruchitaclub/weather-ai-dashboard.git
-```
-
----
-
-## Step 2 — Open Project Folder
-
-```bash
-cd weather-ai-dashboard
-```
-
----
-
-## Step 3 — Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Step 4 — Run Streamlit Application
-
-```bash
-streamlit run app.py
-```
-
----
-
-# 🖥️ Application Workflow
-
-## Step 1
-
-Launch the Streamlit application.
-
----
-
-## Step 2
-
-The dashboard loads weather-related analytics interface.
-
----
-
-## Step 3
-
-Users can explore the weather dashboard and visual interface.
-
----
 
 # 📚 Learning Outcomes
 
